@@ -1,0 +1,7 @@
+Opzetten van experimenten: SimulationRUN.m
+Extractie i-vectoren: Generate_ivectors
+Trainen Perceptrons: TrainVADnet.m & TrainVADnet_ivec.m
+Figuur diarisatieresultaat: visualize_diarization_New.m
+  -> Gebruik wel eerst constructREF.m en constructHYP.m op de bekomen labels in SimulationRUN.m anders is het niet mogelijk om een figuur te maken
+
+
