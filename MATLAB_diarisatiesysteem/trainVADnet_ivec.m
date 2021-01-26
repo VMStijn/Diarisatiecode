@@ -72,7 +72,7 @@ z1_path = [pwd '\20091111\ivectors.mat'];
 load(z1_path);
 ivector = ivector';
 anno_path = [pwd '\20091111\20091111_Annotations.txt'];
-[labels_GT,VAD_GT,begin_seq,end_seq] = read_anno_ivector_Alt(anno_path,precision,0.2);
+[labels_GT,VAD_GT,begin_seq,end_seq] = read_anno_ivector_Alt(anno_path,precision,1);
 seq_length = size(ivector,1);
 anno_length = size(labels_GT,2);
 if seq_length ~= anno_length
