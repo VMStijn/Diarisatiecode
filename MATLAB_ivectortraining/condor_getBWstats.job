@@ -1,0 +1,25 @@
+# Normal execution
+Universe = vanilla
+# Just one cpu
+RequestCpus = 1
+# 4GB RAM needed, ask at least 2GB for matlab.
+RequestMemory = 4G
+# Four hours of clock time
++RequestWalltime = 3600
+
+NiceUser = true
+# Notifies on error and on completion
+Notification = Always
+# Start directory
+Initialdir = /users/start2016/r0590053/Documents/Thesis/MATLABcode
+# Executable
+Executable = /software/bin/matlab
+
+Arguments = -nojvm -nodisplay -r maxNumCompThreads($(RequestCpus));
+# Input file
+Input = BWstats_All.m
+
+Log = Results/condor_getBWstats.log
+Output = Results/condor_getBWstats.out
+Error = Results/condor_getBWstats.err
+Queue
