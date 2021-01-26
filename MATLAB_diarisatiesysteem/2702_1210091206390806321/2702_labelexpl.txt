@@ -1,0 +1,33 @@
+0	stilte
+1	spreker 1 Vrouw (Marianne)
+2	spreker 2 Man (Geert)
+3	spreker 3 Vrouw (Ann)
+4	muziek
+5	spreker 4 Man (Peter)
+6	spreker 5 Vrouw (Barbara)
+7	spreker 6 Man (Tom)
+8	muziek 
+9	spreker 7 Vrouw (Rosa)
+10	spreker 8 Vrouw (Els)
+11	spreker 9 Vrouw (Nancy)
+12	spreker 10 Vrouw (Femke)
+13	muziek
+14	muziek
+15	muziek
+16	spreker 11 Vrouw (Jenny)
+17	spreker 12 Vrouw (Bianca)
+18	spreker 13 Vrouw (Katrien)
+19	spreker 14 Vrouw (Saartje?)
+20	spreker 15 Man (Luc)
+21	spreker 16 Vrouw (Kris)
+22	spreker 17 Man (Franky?)
+23	spreker 18 Man (Mo)
+24	muziek
+25	muziek
+26	spreker 19 Vrouw (Peggy)
+27	muziek
+29	spreker 20 Man (?)
+30	spreker 21 kind
+31	kinderen (samen)
+32	muziek
+33	spreker 22 kind 2

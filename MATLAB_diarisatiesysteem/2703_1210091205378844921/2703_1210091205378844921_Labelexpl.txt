@@ -1,0 +1,33 @@
+0	stilte
+1	spreker 1 (vrouw)
+2	spreker 2 (vrouw)
+3	muziek
+4	spreker 3 (vrouw)
+5	spreker 4 (man)
+6	muziek 2
+7	spreker 5 (vrouw)
+8	spreker 6 (vrouw)
+9	spreker 7 (man)
+10	spreker 8 (vrouw)
+11	spreker 9 (man)
+12	spreker 10 (vrouw)
+13	spreker 11 (man)
+14	spreker 12 (man)
+15	spreker 13 (man)
+16	overlap 
+17	spreker 14 (vrouw)
+18	muziek 3
+19	spreker 15 (vrouw)
+20	spreker 16 (vrouw)
+21	spreker 17 (vrouw)
+22	spreker 18 (vrouw)
+23	spreker 19 (man)
+24	spreker 20 (vrouw)
+25	spreker 21 (man)
+26	muziek 4
+27	spreker 22 (vrouw)
+28	muziek 5
+29	muziek 6
+30	muziek 7
+31	spreker 23 (vrouw)
+32	muziek 8

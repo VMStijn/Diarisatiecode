@@ -1,0 +1,19 @@
+begin vanaf 89s
+0	stilte
+1	spreker 1 Man
+2	spreker 2 Vrouw
+3	spreker 3 Vrouw
+4	spreker 4 Vrouw (Bianca)
+5	random muziek
+6	spreker 5 Vrouw (Els)
+7	spreker 6 Man
+8	spreker 7 Man
+9	spreker 8 Man
+10	overlap (moeilijk te horen)
+11	spreker 9 Vrouw
+12	spreker 10 Vrouw
+13	spreker 11 Man
+14	tussenmuziek
+15	spreker 12 Man (Bram) 
+16	spreker 13 Man
+17	spreker 14 Man
