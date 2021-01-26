@@ -1,0 +1,19 @@
+0	stilte
+1	Intro
+2	spreker 1 (man, veel echo)
+3	spreker 2 (man,nieuwslezer)
+4	Introjingle
+5	jingle 
+6	spreker 3 (vrouw, telefonisch)
+7	spreker 4 (vrouw)
+8	spreker 5 (man)
+9	spreker 6 (man, Frans)
+10	spreker 7 (man, Frans)
+11	spreker 8 (man, telefonisch)
+12	spreker 9 (man)
+13	muziek (last post)
+14	spreker 10 (man, last post op achtergrond)
+15	spreker 11 (man, oorglogsveteraan)
+16	spreker 12 (vrouw, telefonisch)
+17	spreker 13 (vrouw)
+18	jingle 2

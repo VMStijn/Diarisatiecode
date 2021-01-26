@@ -1,0 +1,17 @@
+0	stilte
+1	Intro jingle
+2	spreker 1 (vrouw,Nieuwslezer)
+3	Jingle 1
+4	spreker 2 (man)
+5	Spreker 3 (man,Peeters)
+6	achtergrondlawaai
+7	spreker 4 (man)
+8	spreker 5 (vrouw)
+9	spreker 6 (man)
+10	spreker 7 (man,telefonisch)
+11	spreker 8 (man)
+12	spreker 9 (man,telefonisch)
+13	spreker 10 (vrouw)
+14	spreker 11 (man)
+15	spreker 12 (man, telefonisch)
+16	spreker 13 (man)

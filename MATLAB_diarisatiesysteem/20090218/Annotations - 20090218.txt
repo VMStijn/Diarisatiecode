@@ -1,0 +1,20 @@
+0	stilte
+1	Jingle 1
+2	Spreker 1
+3	Nieuwslezer (Els Leys)
+4	Jingle 2/Overlap
+5	Jingle 3
+6	Journalist 1 (Van Sevenants)
+7	Gast 1	(Peeters)
+8	Gast 2	(Seysens)
+9	Gast 3	(Reynders)
+10	Jingle 3
+11	Journalist 2
+12	Gast 4
+13	Gast 5 (Directeur)
+14	Gast 5 (Eandis)
+15	Journalist 2
+16	Gast 6 (telefonisch)
+17	Journalist 3
+18	Gast 7	(dokter)
+19	Jingle 4
